@@ -31,8 +31,9 @@ Others: Content that does not fit into the main categories.
 Manual tagging and metadata analysis will be used for this categorization.
 
 # Research Questions
-Does my YouTube watch time increase or decrease during exam periods?
-Do the types of videos I watch (e.g., educational, gaming, entertainment) change during exams?
+1- Does my YouTube watch time increase or decrease during exam periods?
+
+2- Do the types of videos I watch (e.g., educational, gaming, entertainment) change during exams?
 
 # Progress Monitoring
 Regular updates will be shared in this repository, which will include:
