@@ -21,7 +21,9 @@ Personal YouTube Data
 The dataset will be derived from my YouTube watch history archive, which includes:
 
 Watch History: Timestamps, video titles, and durations.
+
 Search History: Keywords searched during the analysis period.
+
 Categorization of Videos
 To analyze video preferences, each video will be categorized as:
 
