@@ -7,7 +7,7 @@ This project explores changes in my YouTube usage during exam periods, focusing 
 Watch Time: Does my YouTube usage increase or decrease during exams?
 
 Content Categories: How do the types of videos I watch (e.g., educational, entertainment) change during exams?
-By analyzing my YouTube history, the goal is to identify patterns and correlations between exam-related stress, study habits, and YouTube usage. The analysis will cover specific exam periods, including 1-month windows around midterms and finals, to capture shifts in behavior and preferences.
+By analyzing my YouTube history, the goal is to identify patterns and correlations between exam-related stress, study habits, and YouTube usage. The analysis will cover specific exam periods, including 1.5-month windows around midterms and finals, to capture shifts in behavior and preferences.
 
 # Motivation
 As a student, I’ve observed that my YouTube habits seem to shift during exam periods. This project seeks to understand whether:
