@@ -27,6 +27,7 @@ Categorization of Videos
 To analyze video preferences, each video will be categorized as:
 
 Educational/Study-Related: Tutorials, lectures, or study aids.
+
 Entertainment: Movies, shows, or general relaxation content.
 Gameplay, walkthroughs, or gaming commentary.
 
