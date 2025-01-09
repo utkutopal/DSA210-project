@@ -1,0 +1,18 @@
+# Final Report of the Project
+The main objective of this project was to examine the relevance of YouTube video categories during exam periods. The steps included:
+
+1- Data Gathering from YouTube
+2- Visualizing the Data: Creating graphs to show the number of videos watched each day
+3- Categorizing Videos: Classifying daily watched videos into two categories—entertainment or academic
+4- Exam Impact Analysis: Using my own exam dates, analyzing the data from 1 and 2 days before the exams to determine whether exams influenced the category of videos watched
+5- Hypothesis Testing: Verifying the results using statistical hypothesis testing
+
+# Conclusion
+
+1- According to the hypothesis test, we found that the changes in video categories and the number of videos watched are highly correlated with exam periods, which matched well with my initial assumptions.
+2- Apart from this, I was honestly surprised to see that my total YouTube usage time increased during exam periods. As someone who usually studies from lecture slides, this finding helped me realize that as the semester progresses and the subjects become more challenging, I increasingly rely on video resources.
+
+# Problems Faced
+
+1- I used data from about 1,5 – 2 months of data so maybe this test can be done with a data with 1 or 2 years to get a better and more accurate results.
+2- The biggest limitation was in categorizing the videos. The video titles in the .json dataset consisted of both Turkish and English videos, and in some cases, the titles were unrelated to the actual content of the videos. Additionally, the categorization process required keywords; if a keyword was present in the title, the video was assigned to a specific category. However, deciding on the appropriate keywords for hundreds of videos was quite challenging, leading to the possibility that some videos might have been missed or incorrectly categorized.
