@@ -28,14 +28,14 @@ To analyze video preferences, each video will be categorized as:
 
 Educational/Study-Related: Tutorials, lectures, or study aids.
 Entertainment: Movies, shows, or general relaxation content.
-Gaming: Gameplay, walkthroughs, or gaming commentary.
-Others: Content that does not fit into the main categories.
+Gameplay, walkthroughs, or gaming commentary.
+
 Manual tagging and metadata analysis will be used for this categorization.
 
 # Research Questions
 1- Does my YouTube watch time increase or decrease during exam periods?
 
-2- Do the types of videos I watch (e.g., educational, gaming, entertainment) change during exams?
+2- Do the types of videos I watch (e.g., educational, entertainment) change during exams?
 
 # Progress Monitoring
 Regular updates will be shared in this repository, which will include:
